@@ -1,0 +1,100 @@
+t001: Stredna športová Trnava
+t002: Stredna maliarska Trnava
+t003: Stredna hudobná Trnava
+t004: Stredna sochárska Trnava
+t005: Stredna kuchárska Trnava 
+t006: Stredna športová Bratislava
+t007: Stredna maliarska Bratislava
+t008: Stredna hudobná Bratislava
+t009: Stredna sochárska Bratislava
+t010: Stredna kuchárska Bratislava 
+t011: Stredna športová Žilina
+t012: Stredna maliarska Žilina
+t013: Stredna hudobná Žilina
+t014: Stredna sochárska Žilina
+t015: Stredna kuchárska Žilina 
+t016: Stredna športová Nitra
+t017: Stredna maliarska Nitra
+t018: Stredna hudobná Nitra
+t019: Stredna sochárska Nitra
+t020: Stredna kuchárska Nitra 
+t021: Stredna športová Piešťany
+t022: Stredna maliarska Piešťany
+t023: Stredna hudobná Piešťany
+t024: Stredna sochárska Piešťany
+t025: Stredna kuchárska Piešťany 
+t026: Stredna športová Košice
+t027: Stredna maliarska Košice
+t028: Stredna hudobná Košice
+t029: Stredna sochárska Košice
+t030: Stredna kuchárska Košice 
+t031: Stredna športová Prešov
+t032: Stredna maliarska Prešov
+t033: Stredna hudobná Prešov
+t034: Stredna sochárska Prešov
+t035: Stredna kuchárska Prešov 
+t036: Stredna športová Banska Bistrica
+t037: Stredna maliarska Banska Bistrica
+t038: Stredna hudobná Banska Bistrica
+t039: Stredna sochárska Banska Bistrica
+t040: Stredna kuchárska Banska Bistrica 
+t041: Stredna športová Michalovce
+t042: Stredna maliarska Michalovce
+t043: Stredna hudobná Michalovce
+t044: Stredna sochárska Michalovce
+t045: Stredna kuchárska Michalovce 
+t046: Stredna športová Bardejov
+t047: Stredna maliarska Bardejov
+t048: Stredna hudobná Bardejov
+t049: Stredna sochárska Bardejov
+t050: Stredna kuchárska Bardejov 
+t051: Stredna športová Humenné
+t052: Stredna maliarska Humenné
+t053: Stredna hudobná Humenné
+t054: Stredna sochárska Humenné
+t055: Stredna kuchárska Humenné 
+t056: Stredna športová Kolárovo
+t057: Stredna maliarska Kolárovo
+t058: Stredna hudobná Kolárovo
+t059: Stredna sochárska Kolárovo
+t060: Stredna kuchárska Kolárovo 
+t061: Stredna športová Galanta
+t062: Stredna maliarska Galanta
+t063: Stredna hudobná Galanta
+t064: Stredna sochárska Galanta
+t065: Stredna kuchárska Galanta 
+t066: Stredna športová Pezinok
+t067: Stredna maliarska Pezinok
+t068: Stredna hudobná Pezinok
+t069: Stredna sochárska Pezinok
+t070: Stredna kuchárska Pezinok 
+t071: Stredna športová Martin
+t072: Stredna maliarska Martin
+t073: Stredna hudobná Martin
+t074: Stredna sochárska Martin
+t075: Stredna kuchárska Martin 
+t076: Stredna športová Zvolen
+t077: Stredna maliarska Zvolen
+t078: Stredna hudobná Zvolen
+t079: Stredna sochárska Zvolen
+t080: Stredna kuchárska Zvolen 
+t081: Stredna športová Senec
+t082: Stredna maliarska Senec
+t083: Stredna hudobná Senec
+t084: Stredna sochárska Senec
+t085: Stredna kuchárska Senec 
+t086: Stredna športová Trenčín
+t087: Stredna maliarska Trenčín
+t088: Stredna hudobná Trenčín
+t089: Stredna sochárska Trenčín
+t090: Stredna kuchárska Trenčín 
+t091: Stredna športová Liptovský Ján
+t092: Stredna maliarska Liptovský Ján
+t093: Stredna hudobná Liptovský Ján
+t094: Stredna sochárska Liptovský Ján
+t095: Stredna kuchárska Liptovský Ján 
+t096: Stredna športová Liptovský Mikulaš
+t097: Stredna maliarska Liptovský Mikulaš
+t098: Stredna hudobná Liptovský Mikulaš
+t099: Stredna sochárska Liptovský Mikulaš
+t100: Stredna kuchárska Liptovský Mikulaš

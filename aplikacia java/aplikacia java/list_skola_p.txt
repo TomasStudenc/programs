@@ -1,0 +1,100 @@
+p001: Stredná bilingválna škola Trnava
+p002: Stredná obchodná akadémia Trnava
+p003: Stredná elektrotechnická škola Trnava
+p004: Stredná polnohospodarska škola Trnava
+p005: Gymnazium Trnava
+p006: Stredná bilingválna škola Bratislava
+p007: Stredná obchodná akadémia Bratislava
+p008: Stredná elektrotechnická škola Bratislava
+p009: Stredná polnohospodarska škola Bratislava
+p010: Gymnazium Bratislava
+p011: Stredná bilingválna škola Žilina
+p012: Stredná obchodná akadémia Žilina
+p013: Stredná elektrotechnická škola Žilina
+p014: Stredná polnohospodarska škola Žilina
+p015: Gymnazium Žilina
+p016: Stredná bilingválna škola Prešov
+p017: Stredná obchodná akadémia Prešov
+p018: Stredná elektrotechnická škola Prešov
+p019: Stredná polnohospodarska škola Prešov
+p020: Gymnazium Prešov
+p021: Stredná bilingválna škola Nitra
+p022: Stredná obchodná akadémia Nitra
+p023: Stredná elektrotechnická škola Nitra
+p024: Stredná polnohospodarska škola Nitra
+p025: Gymnazium Nitra
+p026: Stredná bilingválna škola Piešťany
+p027: Stredná obchodná akadémia Piešťany
+p028: Stredná elektrotechnická škola Piešťany
+p029: Stredná polnohospodarska škola Piešťany
+p030: Gymnazium Piešťany
+p031: Stredná bilingválna škola Košice
+p032: Stredná obchodná akadémia Košice
+p033: Stredná elektrotechnická škola Košice
+p034: Stredná polnohospodarska škola Košice
+p035: Gymnazium Košice
+p036: Stredná bilingválna škola Banska Bistrica
+p037: Stredná obchodná akadémia Banska Bistrica
+p038: Stredná elektrotechnická škola Banska Bistrica
+p039: Stredná polnohospodarska škola Banska Bistrica
+p040: Gymnazium Banska Bistrica
+p041: Stredná bilingválna škola Michalovce
+p042: Stredná obchodná akadémia Michalovce
+p043: Stredná elektrotechnická škola Michalovce
+p044: Stredná polnohospodarska škola Michalovce
+p045: Gymnazium Michalovce
+p046: Stredná bilingválna škola Bardejov
+p047: Stredná obchodná akadémia Bardejov
+p048: Stredná elektrotechnická škola Bardejov
+p049: Stredná polnohospodarska škola Bardejov
+p050: Gymnazium Bardejov
+p051: Stredná bilingválna škola Humenné
+p052: Stredná obchodná akadémia Humenné
+p053: Stredná elektrotechnická škola Humenné
+p054: Stredná polnohospodarska škola Humenné
+p055: Gymnazium Humenné
+p056: Stredná bilingválna škola Kolárovo
+p057: Stredná obchodná akadémia Kolárovo
+p058: Stredná elektrotechnická škola Kolárovo
+p059: Stredná polnohospodarska škola Kolárovo
+p060: Gymnazium Kolárovo
+p061: Stredná bilingválna škola Galanta
+p062: Stredná obchodná akadémia Galanta
+p063: Stredná elektrotechnická škola Galanta
+p064: Stredná polnohospodarska škola Galanta
+p065: Gymnazium Galanta
+p066: Stredná bilingválna škola Pezinok
+p067: Stredná obchodná akadémia Pezinok
+p068: Stredná elektrotechnická škola Pezinok
+p069: Stredná polnohospodarska škola Pezinok
+p070: Gymnazium Pezinok
+p071: Stredná bilingválna škola Martin
+p072: Stredná obchodná akadémia Martin
+p073: Stredná elektrotechnická škola Martin
+p074: Stredná polnohospodarska škola Martin
+p075: Gymnazium Martin
+p076: Stredná bilingválna škola Zvolen
+p077: Stredná obchodná akadémia Zvolen
+p078: Stredná elektrotechnická škola Zvolen
+p079: Stredná polnohospodarska škola Zvolen
+p080: Gymnazium Zvolen
+p081: Stredná bilingválna škola Senec
+p082: Stredná obchodná akadémia Senec
+p083: Stredná elektrotechnická škola Senec
+p084: Stredná polnohospodarska škola Senec
+p085: Gymnazium Senec
+p086: Stredná bilingválna škola Trenčín
+p087: Stredná obchodná akadémia Trenčín
+p088: Stredná elektrotechnická škola Trenčín
+p089: Stredná polnohospodarska škola Trenčín
+p090: Gymnazium Trenčín
+p091: Stredná bilingválna škola Liptovský Ján
+p092: Stredná obchodná akadémia Liptovský Ján
+p093: Stredná elektrotechnická škola Liptovský Ján
+p094: Stredná polnohospodarska škola Liptovský Ján
+p095: Gymnazium Liptovský Ján
+p096: Stredná bilingválna škola Liptovský Mikulaš
+p097: Stredná obchodná akadémia Liptovský Mikulaš
+p098: Stredná elektrotechnická škola Liptovský Mikulaš
+p099: Stredná polnohospodarska škola Liptovský Mikulaš
+p100: Gymnazium Liptovský Mikulaš
